@@ -34,7 +34,7 @@ function ItemList({filterdata=menu}){
     return(<ItemCard key={item.id} 
                     title={item.title} 
                     description={item.desc} 
-                    imagesource={`../${item.img}`} 
+                    imagesource={item.img} 
                     price={item.price} />)
   })
 
