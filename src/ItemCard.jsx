@@ -1,5 +1,5 @@
 // import './ItemCard.css'
-import menu from '../data'
+import menu from './data'
 
 function ItemCard(props) {
 

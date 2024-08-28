@@ -1,6 +1,6 @@
 import FunctionalBar from './SearchBar'
 import SearchBar from './SearchBar'
-import menu from '../data';
+import menu from './data';
 
 import ItemList from './ItemCard';
 import { useState } from 'react';
